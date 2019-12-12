@@ -5,6 +5,9 @@
   "repository": "https://github.com/devohno/webpack-react.git",
   "author": "devohno <devohno.ko@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
   "devDependencies": {
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
